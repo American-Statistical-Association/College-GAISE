@@ -144,7 +144,7 @@ Using real datasets of interest to students is a good way to engage students in 
 
     </details>
 
--   *Recommendation Team: Rob Gould (chair), Robin Lock, Ambika Silva, Jennifer Broatch, Jamie Perrett*
+-   *Recommendation Team: Rob Gould, Robin Lock, Ambika Silva (chair), Jennifer Broatch, Jamie Perrett*
 
 </details>
 
